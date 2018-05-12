@@ -1,0 +1,28 @@
+_repo: The-Blood-of-the-Conquerors_20888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fergusson, Harvey
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '9587'
+    url: http://www.gutenberg.org/2009/agents/9587
+description: ''
+gutenberg_issued: '2007-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20888'
+  lccn: '21018316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexican Americans -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Blood of the Conquerors
+url: http://www.gutenberg.org/ebooks/20888
