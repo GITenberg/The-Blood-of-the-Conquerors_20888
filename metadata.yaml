@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9587'
     url: http://www.gutenberg.org/2009/agents/9587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20888#The-Blood-of-the-Conquerors
 gutenberg_issued: '2007-03-23'
 gutenberg_type: Text
 identifiers:
